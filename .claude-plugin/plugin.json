@@ -1,0 +1,9 @@
+{
+  "name": "scientifix-council",
+  "version": "1.2.0",
+  "description": "A 5-agent epistemic council with two modes. /scientifix evaluates ideas — same 5 personas (Adversarial, Data-Grounding, Red Team, Outside-the-Box, Steelman) produce a HOLDS/WEAK/DISCARD verdict. /scientifix-plan converts a sound idea into an actionable implementation plan with BUILD-FIRST/VERIFY-FIRST/SKIP per step, saved to .scientifix/plan_<ISO>.md. Your firewall against optimism bias in evaluation and your structured planner once the firewall clears.",
+  "author": {
+    "name": "Eyal Nof",
+    "email": "verbalogic.project@gmail.com"
+  }
+}
