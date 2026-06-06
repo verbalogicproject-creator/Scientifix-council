@@ -143,7 +143,7 @@ Plan saved to: .scientifix/plan_<ISO>.md
 ### Quick Install (Linux / macOS)
 
 ```bash
-git clone https://github.com/<your-repo>/scientifix-council.git
+git clone https://github.com/verbalogicproject-creator/Scientifix-council.git
 cd scientifix-council
 bash install.sh
 ```
